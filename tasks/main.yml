@@ -1,0 +1,5 @@
+---
+# tasks file for atom-packages
+
+- apm: name={{ item }} state=latest
+  with_items: atom_packages_packages

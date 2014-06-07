@@ -1,0 +1,13 @@
+---
+galaxy_info:
+  author: Hiroaki Nakamura
+  description: Ansible role for installing atom packages 
+  license: MIT
+  min_ansible_version: 1.2
+  platforms:
+  - name: OSX
+    versions:
+    - all
+  categories:
+  - packaging
+dependencies: []
